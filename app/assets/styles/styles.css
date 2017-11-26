@@ -1,1 +1,13 @@
-h2 {color: red}
+$mainRed: #ff0000;
+h2 {color: $mainRed}
+
+body {
+    padding: 21px;
+    margin: auto;
+    columns: 300px 2
+}
+.navbar {
+    ul {
+        text-decoration: none;
+    }
+}
