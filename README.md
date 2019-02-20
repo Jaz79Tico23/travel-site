@@ -3,7 +3,7 @@
  
  It is being created as a means of learning git 
  
- I am a web designer/developer & I am learhing git to further my developing skills
+ I am a web designer/developer & I am learning git to further my developing skills
  
  The class is "Git a Web Developer Job: Mastering the Modern Workflow"
  
